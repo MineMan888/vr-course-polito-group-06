@@ -38,7 +38,7 @@ The scene is located at `Assets/Scenes/Blockout.unity`.
 
 The project's design document (Assignment A0) is available here:
 
-**A0 – Project Design Document**
+[**A0 – Project Design Document**](https://docs.google.com/document/d/18dqgue8kTEb_YKesUOcHGtpLW7m2bPnEvSWHDcvu3lA/edit?usp=sharing)
 
 Reference images and the environment floor plan are available in the [Docs](Docs) directory.
 
