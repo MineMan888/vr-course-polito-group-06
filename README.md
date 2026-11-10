@@ -20,7 +20,7 @@ The project focuses on cultural heritage, historical education, and learning thr
 
 The first assignment focuses on creating a blockout of a typical Piedmont’s farmstead.
 
-The environment includes three main functional areas:
+The environment includes five main functional areas:
 
 * **Unloading Area:** a garage where grapes are taken.
 * **Grape Crushing Area:** a dedicated space for manually crushing harvested grapes.
