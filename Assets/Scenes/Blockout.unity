@@ -20182,7 +20182,17 @@ PrefabInstance:
       value: blockout_03
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 3607512780379260485, guid: 6579213304c5e0345bbdf078fca8c5d9, type: 3}
+    - {fileID: -1994700566840794723, guid: 6579213304c5e0345bbdf078fca8c5d9, type: 3}
+    - {fileID: 6570680485750109492, guid: 6579213304c5e0345bbdf078fca8c5d9, type: 3}
+    - {fileID: 5549019817344795722, guid: 6579213304c5e0345bbdf078fca8c5d9, type: 3}
+    - {fileID: 694711632640849645, guid: 6579213304c5e0345bbdf078fca8c5d9, type: 3}
+    - {fileID: -5686555313944957880, guid: 6579213304c5e0345bbdf078fca8c5d9, type: 3}
+    - {fileID: 6176621199658423715, guid: 6579213304c5e0345bbdf078fca8c5d9, type: 3}
+    - {fileID: -8359944562714487116, guid: 6579213304c5e0345bbdf078fca8c5d9, type: 3}
+    - {fileID: 6826888101283393935, guid: 6579213304c5e0345bbdf078fca8c5d9, type: 3}
+    - {fileID: -2761660611894675289, guid: 6579213304c5e0345bbdf078fca8c5d9, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6579213304c5e0345bbdf078fca8c5d9, type: 3}
