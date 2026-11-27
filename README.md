@@ -34,6 +34,23 @@ Users can explore the environment through a first-person controller implemented 
 
 The scene is located at `Assets/Scenes/Blockout.unity`.
 
+## Development
+
+* **Engine:** Unity 6.3 or newer
+* **Render Pipeline:** Universal Render Pipeline (URP)
+* **Input:** Unity Input System
+* **Assignment branch:** `assignment-1`
+
+## Assignment 2 - Texture and Lighting
+
+Links to external assets:
+* **Wooden Cart:** https://skfb.ly/ooQTR
+* **Outside Door:** https://skfb.ly/6RNr9
+* **Wooden Box:** https://skfb.ly/JsXC
+* **Rock Pavement:** https://polyhaven.com/a/stone_tiles_02
+* **Brick Wall:** https://polyhaven.com/a/medieval_red_brick
+* **Torch:** https://skfb.ly/6SZXN
+
 ## Documentation
 
 The project's design document (Assignment A0) is available here:
@@ -41,10 +58,3 @@ The project's design document (Assignment A0) is available here:
 [**A0 – Project Design Document**](https://docs.google.com/document/d/18dqgue8kTEb_YKesUOcHGtpLW7m2bPnEvSWHDcvu3lA/edit?usp=sharing)
 
 Reference images and the environment floor plan are available in the [Docs](Docs) directory.
-
-## Development
-
-* **Engine:** Unity 6.3 or newer
-* **Render Pipeline:** Universal Render Pipeline (URP)
-* **Input:** Unity Input System
-* **Assignment branch:** `assignment-1`
